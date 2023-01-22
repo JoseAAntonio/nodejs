@@ -1,0 +1,22 @@
+[
+	{
+		"nome": "nikizin",
+		"marca": "nike",
+		"categoria": "tenis",
+		"preço": 236,
+		"desconto": 70,
+		"descrição": "tenis bom pra caralho",
+		"disponibilidade": true,
+		"color": "blue"
+	},
+	{
+		"nome": "nikizão",
+		"marca": "nike",
+		"categoria": "tenis",
+		"preço": 500,
+		"desconto": 50,
+		"descrição": "tenis bom pra caralhooooo",
+		"disponibilidade": true,
+		"color": "white"
+	}
+]
